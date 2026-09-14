@@ -29,7 +29,7 @@ Java developer. Building **Kletka** — cross-platform chess analyzer with Polyg
 
 ---
 
-# Привет, я Андрей Хрыпач 👋
+# Привет, я Андрей Хрипач 👋
 
 Java-разработчик. Создаю **Kletka** — кроссплатформенный шахматный анализатор с поддержкой Polyglot книг.
 
