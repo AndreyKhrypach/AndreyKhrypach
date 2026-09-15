@@ -12,6 +12,8 @@ Java developer. Building **Kletka** — cross-platform chess analyzer with Polyg
 
 ## 🚀 Active Projects
 
+## 🌐 **Website:** [https://andreykhrypach.github.io/Kletka/](https://andreykhrypach.github.io/Kletka/)
+
 ### ♟️ [Kletka](https://github.com/AndreyKhrypach/Kletka) — Cross-Platform Chess Analyzer
 
 - PGN files, variations, annotations
@@ -42,6 +44,8 @@ Java-разработчик. Создаю **Kletka** — кроссплатфо�
 - **Библиотеки:** chesslib, logback, image4j, zxing
 
 ## 🚀 Активные проекты
+
+## 🌐 **Website:** [https://andreykhrypach.github.io/Kletka/](https://andreykhrypach.github.io/Kletka/)
 
 ### ♟️ [Kletka](https://github.com/AndreyKhrypach/Kletka) — кроссплатформенный шахматный анализатор
 
